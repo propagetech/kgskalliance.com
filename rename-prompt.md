@@ -23,94 +23,94 @@ Files and context:
     }
   },
   {
-    "path": "blog.html",
-    "context": {
-      "title": "KGSK | Blogs",
-      "first_heading": "BLOG"
-    }
-  },
-  {
-    "path": "blog_-kgsk-alliance-pvt-ltd--redefining-trust-and-integrity-in-international-trade-.html",
-    "context": {
-      "title": "\"KGSK Alliance Pvt Ltd: Redefining Trust and Integrity in International Trade\"",
-      "first_heading": "\"KGSK Alliance Pvt Ltd: Redefining Trust and Integrity in International Trade\""
-    }
-  },
-  {
-    "path": "blog_-raisins--a-sweet-deal-for-b2b-buyers-exploring-opportunities-in-the-market.html",
-    "context": {
-      "title": "\u201cRaisins\u201d A Sweet Deal for B2B Buyers Exploring Opportunities in the Market",
-      "first_heading": "\u201cRaisins\u201d A Sweet Deal for B2B Buyers Exploring Opportunities in the Market"
-    }
-  },
-  {
-    "path": "blog_-the-exquisite-flavour-journey-of-basmati-rice--exploring-varieties-and-culinary-delights-.html",
-    "context": {
-      "title": "\"The Exquisite Flavour Journey of Basmati Rice: Exploring Varieties and Culinary Delights\"",
-      "first_heading": "\"The Exquisite Flavour Journey of Basmati Rice: Exploring Varieties and Culinary Delights\""
-    }
-  },
-  {
-    "path": "blog_by-products-of-raw-cashew-nuts.html",
+    "path": "blog-by-products-of-raw-cashew-nuts.html",
     "context": {
       "title": "By-Products of Raw Cashew Nuts",
       "first_heading": "By-Products of Raw Cashew Nuts"
     }
   },
   {
-    "path": "blog_cardamom-the-queen-of-spices---why-so-precious-for-us-.html",
+    "path": "blog-cardamom-the-queen-of-spices-why-so-precious-for-us.html",
     "context": {
       "title": "Cardamom-The Queen of Spices. Why so precious for us?",
       "first_heading": "Cardamom-The Queen of Spices. Why so precious for us?"
     }
   },
   {
-    "path": "blog_green-moong-dal--a-tiny-bean-with-gigantic-potential.html",
+    "path": "blog-green-moong-dal-a-tiny-bean-with-gigantic-potential.html",
     "context": {
       "title": "Green Moong Dal: A Tiny Bean with Gigantic Potential",
       "first_heading": "Green Moong Dal: A Tiny Bean with Gigantic Potential"
     }
   },
   {
-    "path": "blog_impact-of-covid-19-on-businesses-.html",
+    "path": "blog-impact-of-covid-19-on-businesses.html",
     "context": {
       "title": "Impact Of Covid-19 On Businesses",
       "first_heading": "Impact Of Covid-19 On Businesses"
     }
   },
   {
-    "path": "blog_makhana---tap-the-untapped-market.html",
+    "path": "blog-kgsk-alliance-pvt-ltd-redefining-trust-and-integrity-in-international-trade.html",
+    "context": {
+      "title": "\"KGSK Alliance Pvt Ltd: Redefining Trust and Integrity in International Trade\"",
+      "first_heading": "\"KGSK Alliance Pvt Ltd: Redefining Trust and Integrity in International Trade\""
+    }
+  },
+  {
+    "path": "blog-makhana-tap-the-untapped-market.html",
     "context": {
       "title": "Makhana - Tap the Untapped Market",
       "first_heading": "Makhana - Tap the Untapped Market"
     }
   },
   {
-    "path": "blog_new-opportunities---how-covid-19-has-brought-success-to-export-business-.html",
+    "path": "blog-new-opportunities-how-covid-19-has-brought-success-to-export-business.html",
     "context": {
       "title": "New Opportunities! How Covid\u201919 has brought success to Export Business!",
       "first_heading": "New Opportunities! How Covid\u201919 has brought success to Export Business!"
     }
   },
   {
-    "path": "blog_seizing-opportunities-in-the-organic-chickpea-boom.html",
+    "path": "blog-raisins-a-sweet-deal-for-b2b-buyers-exploring-opportunities-in-the-market.html",
+    "context": {
+      "title": "\u201cRaisins\u201d A Sweet Deal for B2B Buyers Exploring Opportunities in the Market",
+      "first_heading": "\u201cRaisins\u201d A Sweet Deal for B2B Buyers Exploring Opportunities in the Market"
+    }
+  },
+  {
+    "path": "blog-seizing-opportunities-in-the-organic-chickpea-boom.html",
     "context": {
       "title": "Seizing Opportunities in the Organic Chickpea Boom",
       "first_heading": "Seizing Opportunities in the Organic Chickpea Boom"
     }
   },
   {
-    "path": "blog_tunisian-treasures--sweetening-your-success-with-kgsk-alliance.html",
+    "path": "blog-the-exquisite-flavour-journey-of-basmati-rice-exploring-varieties-and-culinary-delights.html",
+    "context": {
+      "title": "\"The Exquisite Flavour Journey of Basmati Rice: Exploring Varieties and Culinary Delights\"",
+      "first_heading": "\"The Exquisite Flavour Journey of Basmati Rice: Exploring Varieties and Culinary Delights\""
+    }
+  },
+  {
+    "path": "blog-tunisian-treasures-sweetening-your-success-with-kgsk-alliance.html",
     "context": {
       "title": "Tunisian Treasures: Sweetening Your Success with KGSK Alliance",
       "first_heading": "Tunisian Treasures: Sweetening Your Success with KGSK Alliance"
     }
   },
   {
-    "path": "blog_types-of-rice-grains.html",
+    "path": "blog-types-of-rice-grains.html",
     "context": {
       "title": "Types Of Rice Grains",
       "first_heading": "Types Of Rice Grains"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "KGSK | Blogs",
+      "first_heading": "BLOG"
     }
   },
   {
@@ -881,51 +881,51 @@ Files and context:
           "title": ""
         },
         {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
           "alt": "",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
           "title": ""
         },
         {
